@@ -1,0 +1,13 @@
+MUST INSTALL DEPENDENCIES
+
+RUN MO LANG TO SA TERMINAL NG VS CODE
+
+npm install react-fontawesome @pathofdev/react-tag-input firebase react-owl-carousel react-router-dom react-toastify sass bootstrap jspdf react-icons jspdf-autotable
+@fortawesome/react-fontawesome --save
+
+
+tapos kung maghohost ka na:
+npm install -g firebase-tools
+
+if you need help, refer here:
+https://www.youtube.com/watch?v=nSR65UfluOk&t=12048s
